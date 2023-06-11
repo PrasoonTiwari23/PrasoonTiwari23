@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Driving Buddy(College Project)**
 
-- 🌱 I’m currently learning **Image Processing , React js , text processing**
+- 🌱 I’m currently learning **Image Processing , React js , text processing , Data Science**
 
 - 💬 Ask me about **MEAN Stack Web development , C++ , Python**
 
