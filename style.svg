@@ -27,7 +27,7 @@
 }
 
             </style>
-            <h1  class="slide-left-entrance ">A fourth-year student at Thapar Institute, passionate about coding and exploring various domains of computer science. I have a strong knowledge of web development and data science, with a growing interest in computer vision and image processing. I have also worked on Android app development using Flutter . Apart from coding, I enjoy playing football and badminton, and I'm an avid cricket watcher .</h1>
+            <h1  width = "500" height="500" class="slide-left-entrance ">A fourth-year student at Thapar Institute, passionate about coding and exploring various domains of computer science. I have a strong knowledge of web development and data science, with a growing interest in computer vision and image processing. I have also worked on Android app development using Flutter . Apart from coding, I enjoy playing football and badminton, and I'm an avid cricket watcher .</h1>
         </div>
     </foreignObject>
 </svg>
