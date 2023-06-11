@@ -24,6 +24,7 @@
 }
                 h1 {
   font-family: 'Brush Script MT', cursive;
+   color: #ffffff
 }
 
             </style>
