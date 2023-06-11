@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasoontiwari23&show_icons=true&locale=en" alt="prasoontiwari23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasoontiwari23&" alt="prasoontiwari23" /></p>
+
+![Snake animation](https://github.com/PrasoonTiwari23/PrasoonTiwari23/blob/output/github-contribution-grid-snake.svg)
