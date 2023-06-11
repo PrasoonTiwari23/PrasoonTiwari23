@@ -2,21 +2,32 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
+           .slide-left-entrance {
+  opacity: 0;
+  transform: translateX(-100%);
+  animation: slideLeftEntrance 1s forwards;
+}
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
+@keyframes slideLeftEntrance {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  70% {
+    opacity: 1;
+    transform: translateX(10%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+                h1 {
+  font-family: 'Brush Script MT', cursive;
+}
+
             </style>
-            <h1>HELLO WORLD!</h1>
+            <h1  class="slide-left-entrance ">A fourth-year student at Thapar Institute, passionate about coding and exploring various domains of computer science. I have a strong knowledge of web development and data science, with a growing interest in computer vision and image processing. I have also worked on Android app development using Flutter . Apart from coding, I enjoy playing football and badminton, and I'm an avid cricket watcher .</h1>
         </div>
     </foreignObject>
 </svg>
