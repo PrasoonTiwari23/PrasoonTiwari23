@@ -1,7 +1,7 @@
 ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjQNUrWtl-xOfzp1bY5mqFihZWPQ4YAF_Xw&usqp=CAU)
 <h1 align="center">Hi <img align="center" alt="Coding" width="55" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> , I'm Prasoon Tiwari</h1>
-<h3 align="center">Final-year student at Thapar Institute, passionate about coding and exploring various domains of computer science. I have a strong knowledge of web development and data science, with a growing interest in computer vision and image processing. I have also worked on Android app development using Flutter . Apart from coding, I enjoy playing football and badminton, and I'm an avid cricket watcher .</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">Final-year student at Thapar Institute, passionate about coding and exploring various domains of computer science. I have a strong knowledge of web development and data science, with a growing interest in computer vision and image processing. I have also worked on Android app development using Flutter. Apart from coding, I enjoy playing football and badminton, and I'm an avid cricket watcher .</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnjQNUrWtl-xOfzp1bY5mqFihZWPQ4YAF_Xw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasoontiwari23&label=Profile%20views&color=0e75b6&style=flat" alt="prasoontiwari23" /> </p>
 
